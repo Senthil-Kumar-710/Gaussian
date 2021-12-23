@@ -51,7 +51,7 @@ for i in range(n):
 ```
 
 ## Output:
-![GitHub](eliminate.png)
+![Output](eliminate.png)
 
 
 ## Result:
